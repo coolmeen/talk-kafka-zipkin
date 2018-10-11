@@ -1,12 +1,12 @@
 [submodule "spigo"]
 	path = spigo
-	url = git@github.com:coolmeen/spigo
+	url = https://github.com/coolmeen/spigo.git
 [submodule "go-vizceral"]
 	path = go-vizceral
-	url = git@github.com:coolmeen/go-vizceral
+	url = https://github.com/coolmeen/go-vizceral.git
 [submodule "vizceral-example"]
 	path = vizceral-example
-	url = git@github.com:coolmeen/vizceral-example
+	url = https://github.com/coolmeen/vizceral-example.git
 [submodule "docker-images"]
 	path = docker-images
-	url = git@github.com:coolmeen/docker-images
+	url = https://github.com/coolmeen/docker-images.git
